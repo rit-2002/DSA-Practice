@@ -7,7 +7,7 @@ class ArmstrongNumber {
 
     // Function to print Armstrong
     // Numbers between two integers
-    static void ArmstrongNum(int l, int h)
+    static void ArmstrongNum(int l, int h) 
     {
         for (int j = l + 1; j < h; ++j) {
 
