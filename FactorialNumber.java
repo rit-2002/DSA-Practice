@@ -1,5 +1,5 @@
 class FactorialNumber {
-    // Method to find factorial of given number
+    
     static int factorial(int n)
     {
         int res = 1, i;
@@ -8,7 +8,7 @@ class FactorialNumber {
         return res;
     }
 
-    // main method
+
     public static void main(String[] args)
     {
         int num = 5;
